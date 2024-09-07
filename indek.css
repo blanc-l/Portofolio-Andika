@@ -40,6 +40,7 @@ header{
 .nav ul li a {
     text-decoration: none;
     color: #fff;
+    transition: 1s;
 }
 
 .nav ul li a:hover {
@@ -57,6 +58,7 @@ header{
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
+    transition: 1s;
 }
 
 .contact-btn .btn:hover{
